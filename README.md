@@ -4,15 +4,15 @@ This repository contains my Titanic onboarding project for a machine learning in
 
 # Models
 
--> Logistic Regression (81% accuracy)
--> CatBoost (83% accuracy)
+- Logistic Regression (81% accuracy)
+- CatBoost (83% accuracy)
 
 # Repository Structure
 
--> data/ - Titanic dataset files from Kaggle
--> notebooks/ - Jupyter notebooks for model development evaluation
--> environment.yaml - Conda environment configuration
--> .gitignore - Excludes generated files from version control
+- data/ - Titanic dataset files from Kaggle
+- notebooks/ - Jupyter notebooks for model development evaluation
+- environment.yaml - Conda environment configuration
+- .gitignore - Excludes generated files from version control
 
 # Notebooks
 
@@ -26,5 +26,5 @@ This repository contains my Titanic onboarding project for a machine learning in
 
 # Environment Setup
 
-conda env create -f environment.yaml
-conda activate titanic-ml
+- conda env create -f environment.yaml
+- conda activate titanic-ml
